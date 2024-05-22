@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ritik Singh</h1>
 <h3 align="center">Web Developer | HTML, CSS, JavaScript, MongoDB, Express.js,Node.js, PHP, MySQL</h3>
-<img  align ="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritiksingh070&label=Profile%20views&color=0e75b6&style=flat" alt="ritiksingh070" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritiksingh070" alt="ritiksingh070" /></a> </p>
-
+<img  align ="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding">
 - 🌱 I’m currently learning **PHP, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-7ywc.vercel.app/](https://my-portfolio-7ywc.vercel.app/)
