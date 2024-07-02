@@ -5,7 +5,7 @@
 
 
 <img  align ="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding">
-- 🌱 I’m currently learning **PHP, MySQL**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [(https://ritik1809.vercel.app/)]
 
